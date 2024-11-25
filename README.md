@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Additional Information
 
-Everything in this repo was written by qwen 2.5 32B using clide.
+Everything in this repo was written by qwen 2.5 32B using cline.
